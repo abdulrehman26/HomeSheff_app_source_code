@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555587660814",
+    "project_id": "sketchy-c1166",
+    "storage_bucket": "sketchy-c1166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555587660814:android:c174a6a06cdbf6a47f605f",
+        "android_client_info": {
+          "package_name": "com.apploid.sketchy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555587660814-ve2cnp05b6b34gbh6u2vd815a8bqkb5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apploid.sketchy",
+            "certificate_hash": "88cea99458916ecdf64342e65cffcbb6bcdbed7e"
+          }
+        },
+        {
+          "client_id": "555587660814-o5entv141v5i70de9785nel5tvlusrjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWKyRpQbMAl3ozOWq76LV1dCUDJYPf9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555587660814-o5entv141v5i70de9785nel5tvlusrjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
